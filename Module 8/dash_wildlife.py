@@ -1,10 +1,3 @@
-# -- Instrucciones iniciales para correr este archivo en la web --
-# Usa el siguiente comando desde la consola:
-# pythom -m pip install setuptools packaging pandas dash
-# python -m pip install httpx==0.25 dash plotly
-# python3 dash_wildlife.py.
-# Ingresa al navegador https://127.0.0.1:8050
-
 import pandas as pd
 import dash
 from dash import html, dcc
