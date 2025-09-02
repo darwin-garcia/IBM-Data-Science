@@ -1,2 +1,3 @@
+![Desktop.](https://user-images.githubusercontent.com/84391594/152703941-8c1b3e93-7358-4274-8c7d-b152d3132814.png)
 # IBM-Data-Science
-IBM Data Science Professional Certificate
+IBM Data Science Professional Certificate ![Star](https://camo.githubusercontent.com/8cb1a623a293e923f5050f479246f7d1bcf363180ae8d5b821335050943a6774/68747470733a2f2f632e74656e6f722e636f6d2f534f564d53586d5742316b41414141692f746f6e792d737461722d6a756d70696e672e676966)
