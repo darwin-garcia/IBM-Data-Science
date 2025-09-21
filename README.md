@@ -13,5 +13,6 @@
 | 7 | Data Analysis with Python | ✅ |
 | 8 | Data Visualization with Python | ✅ |
 | 9 | Machine Learning with Python | ✅ |
-| 10 | Applied Data Science Capstone | ✅ |
-| 11 | Introduction to Data Science | ✅ |
+| 10 | Applied Data Science Capstone |  |
+| 11 | Generative AI: Elevate your Data Science career | ✅ |
+| 12 | Career guide and interview prep for Data Science | ✅ |
