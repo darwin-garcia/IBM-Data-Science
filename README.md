@@ -17,4 +17,4 @@
 | 11 | Generative AI: Elevate your Data Science career | ✅ |
 | 12 | Career guide and interview prep for Data Science | ✅ |
 
-Enjoy this carrer! ![Star](https://camo.githubusercontent.com/8cb1a623a293e923f5050f479246f7d1bcf363180ae8d5b821335050943a6774/68747470733a2f2f632e74656e6f722e636f6d2f534f564d53586d5742316b41414141692f746f6e792d737461722d6a756d70696e672e676966 =48x) [Click Here](https://www.coursera.org/professional-certificates/ibm-data-science) to launch
+Enjoy this carrer! [Click Here](https://www.coursera.org/professional-certificates/ibm-data-science) to launch
