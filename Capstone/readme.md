@@ -8,7 +8,6 @@
 | 1 | Data Wrangling and Collection Process | ✅ |
 | 2 | Exploratory Data Analysis using Visualization and SQL | ✅ |
 | 3 | Dashboards and Interactive Maps| ✅ |
-| 4 | Machine Learning Al | ✅ |
-| 5 | Predictive Analysis using Machine Learning Classification algorithms | ✅ |
+| 4 | Predictive Analysis using Machine Learning Classification algorithms | ✅ |
 
 Enjoy this carrer! [Click Here](https://www.coursera.org/professional-certificates/ibm-data-science) to launch
